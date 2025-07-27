@@ -6,6 +6,7 @@ public class MyStaticClass {
 
     int a = 5; //for every object the value of a is 5 for that object
     static int b  = 10; //but this b is always remain 10 until this class will exist
+
                         // it's memory allocation happen when the class is created
     //anything marked to static is always loaded first
 
