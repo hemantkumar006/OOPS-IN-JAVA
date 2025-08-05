@@ -23,6 +23,10 @@ public  class Animal {
 
     }
 
+    public String substring(int i ,int j){
+        return this.sound.substring(i,j);
+    }
+
     //final method can not be overriden
     public void test(){
         System.out.println("Inside the Animal class");

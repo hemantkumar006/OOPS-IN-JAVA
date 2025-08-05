@@ -1,4 +1,5 @@
 package lambdas;
 
-public class MyFuncInt2 {
+public interface MyFuncInt2 {
+    public String name();
 }

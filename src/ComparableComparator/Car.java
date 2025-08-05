@@ -1,4 +1,4 @@
-package playground;
+package ComparableComparator;
 
 public  class Car implements Comparable<Car>{
 
